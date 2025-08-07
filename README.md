@@ -13,3 +13,8 @@
 ![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
 
 ![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AtharavPujari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AtharavPujari&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharavPujari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
