@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello! I'm [Atharav](https://atharav.vercel.app/) 👋
 
-<!--
-**AtharavPujari/AtharavPujari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/darshanb05)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/atharav._.pujari)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1073627660435079269)
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,c,)
+
+![Full Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flask)
+
+![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+
+![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git)
