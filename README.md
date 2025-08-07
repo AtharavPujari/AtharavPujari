@@ -1,20 +1,54 @@
-# Hello! I'm [Atharav](https://atharav.vercel.app/) 👋
+<h1 align="center">Hey there! I'm <a href="https://atharav.vercel.app/" target="_blank">Atharav</a> 👋</h1>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/darshanb05)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/atharav._.pujari)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1073627660435079269)
+<p align="center">
+  <a href="https://linkedin.com/in/darshanb05" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/atharav._.pujari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.com/users/1073627660435079269" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
-## Tech Stack
+---
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,c,)
+## 🧠 Tech Stack
 
-![Full Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flask)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,c" />
+</p>
 
-![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+### 🧩 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flask" />
+</p>
 
-![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git)
+### 🗄️ Databases & ORMs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharavPujari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AtharavPujari&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharavPujari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharavPujari&theme=tokyonight&hide_border=true&show_icons=true" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AtharavPujari&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharavPujari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtharavPujari&style=flat-square&color=blue" alt="Profile views" />
+</p>
