@@ -49,6 +49,10 @@
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/AtharavPujari)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharavPujari&style=flat-square&color=blue" alt="Profile views" />
 </p>
