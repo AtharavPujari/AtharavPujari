@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <a href="https://atharav.vercel.app/" target="_blank">Atharav</a> 👋</h1>
+<h1 align="center">Hello! I'm <a href="https://atharav.vercel.app/" target="_blank">Atharav</a> 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/darshanb05" target="_blank">
