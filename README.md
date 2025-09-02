@@ -1,6 +1,9 @@
 <h1 align="center">Hello! I'm <a href="https://atharav.vercel.app/" target="_blank">Atharav</a> 👋</h1>
 
 <p align="center">
+  <a href="https://atharav.vercel.app/" target="_blank">
+    <img src="https://atharav.vercel.app/favicon.ico" />
+  </a>
   <a href="https://linkedin.com/in/darshanb05" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
