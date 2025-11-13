@@ -43,14 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharavPujari&theme=tokyonight&hide_border=true&show_icons=true" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AtharavPujari&theme=tokyonight&hide_border=true" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharavPujari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AtharavPujari)
 
