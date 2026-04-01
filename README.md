@@ -40,7 +40,15 @@
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/AtharavPujari)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AtharavPujari?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtharavPujari&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
 ---
 
